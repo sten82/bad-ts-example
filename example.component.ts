@@ -17,7 +17,7 @@ export class ExampleComponent implements OnInit {
   configData: any;
 
   lang: string;
-  timezone: string;
+  timezone: String;
   hasGoodResolution: boolean;
 
   selectX(): void {
